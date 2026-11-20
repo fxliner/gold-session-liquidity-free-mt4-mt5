@@ -13,6 +13,12 @@ These are **two different platform implementations**, not the same executable an
 
 **[Full illustrated user guide at ForexReview.top — features, calculations, setup, inputs, differences and limitations](https://forexreview.top/2026/11/19/gold-session-liquidity-free-mt4-mt5-guide/)**
 
+### Panduan Bahasa Indonesia / Indonesian user guide
+
+**[Gold Session Liquidity Free MT4 & MT5: indikator gold gratis, fitur, cara kerja, dan cara pemasangan — DasarForex.top](https://dasarforex.top/gold-session-liquidity-free-indikator-gold-mt4-mt5-gratis/)**
+
+Panduan berbahasa Indonesia untuk memahami Asian High/Low, liquidity sweep XAUUSD, market structure, sesi trading, perencanaan risiko, perbedaan MT4/MT5, dan tautan unduhan resmi. Artikel ini adalah referensi edukatif resmi versi bahasa Indonesia; indikator tidak membuka order otomatis atau menjanjikan profit.
+
 ## Main features
 
 - **Session context** — Asian session, London, New York and overlap, with configurable historical broker UTC offset and DST handling. The settings must match the broker.
